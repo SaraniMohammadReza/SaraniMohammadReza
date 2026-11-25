@@ -17,16 +17,16 @@ Keep this repository public and named exactly SaraniMohammadReza for GitHub to r
 
 Android applications and payment experiences, from app architecture and user interfaces to POS integrations and device communication. Current work includes Android POS software and payment infrastructure at Eniac-tech Group.
 
-**Core:** Kotlin · Java · Android · Jetpack Compose · XML · Coroutines · Flow · RxJava  
+**Core:** Kotlin · Java · Python · Android · Jetpack Compose · XML · Coroutines · Flow · RxJava  
 **Payments:** ISO 8583 · EMV · PIN / MAC · DUKPT · Cashless POS  
 **Tools:** Retrofit · Ktor · OkHttp · Room · DataStore · Hilt · Dagger · GitHub Actions · GitLab CI · Docker
 
 ### Technology
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,python,androidstudio,gradle,git,github&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=light" />
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=dark" alt="Kotlin, Java, Android Studio, Gradle, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=dark" alt="Kotlin, Java, Python, Android Studio, Gradle, Git, and GitHub" />
 </picture>
 
 ### Selected work
@@ -44,11 +44,7 @@ Android applications and payment experiences, from app architecture and user int
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaraniMohammadReza&show_icons=true&hide_border=true&include_all_commits=true&theme=default&rank_icon=percentile" />
   <img width="49%" height="160" alt="GitHub statistics: commits, contributions, stars, pull requests, and issues" src="https://github-readme-stats.vercel.app/api?username=SaraniMohammadReza&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&rank_icon=percentile" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraniMohammadReza&layout=compact&langs_count=5&exclude_repo=apk-release-deploy&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraniMohammadReza&layout=compact&langs_count=5&exclude_repo=apk-release-deploy&hide_border=true&theme=default" />
-  <img width="49%" height="160" alt="Most-used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraniMohammadReza&layout=compact&langs_count=5&exclude_repo=apk-release-deploy&hide_border=true&theme=github_dark" />
-</picture>
+<p><sub>Language breakdown cards can only inspect public repositories. The technology list above reflects the languages and tools used across my work.</sub></p>
 </p>
 
 <p align="center">

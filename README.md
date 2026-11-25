@@ -17,16 +17,17 @@ Keep this repository public and named exactly SaraniMohammadReza for GitHub to r
 
 Android applications and payment experiences, from app architecture and user interfaces to POS integrations and device communication. Current work includes Android POS software and payment infrastructure at Eniac-tech Group.
 
-**Core:** Kotlin · Java · Python · Android · Jetpack Compose · XML · Coroutines · Flow · RxJava  
+**Languages:** Kotlin · Java · Python  
+**Android:** Jetpack Compose · XML · Coroutines · Flow · RxJava · Clean Architecture  
 **Payments:** ISO 8583 · EMV · PIN / MAC · DUKPT · Cashless POS  
-**Tools:** Retrofit · Ktor · OkHttp · Room · DataStore · Hilt · Dagger · GitHub Actions · GitLab CI · Docker
+**Tools:** Retrofit · Ktor · OkHttp · Room · DataStore · Hilt · Dagger · GitHub Actions · GitLab CI · Docker · Linux
 
 ### Technology
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,python,androidstudio,gradle,git,github&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=light" />
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github&theme=dark" alt="Kotlin, Java, Python, Android Studio, Gradle, Git, and GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpython%2Cdocker%2Clinux%2Candroidstudio%2Cgradle%2Cgit%2Cgithub&perline=9&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpython%2Cdocker%2Clinux%2Candroidstudio%2Cgradle%2Cgit%2Cgithub&perline=9&theme=light" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,docker,linux,androidstudio,gradle,git,github&perline=9&theme=dark" alt="Kotlin, Java, Python, Docker, Linux, Android Studio, Gradle, Git, and GitHub" />
 </picture>
 
 ### Selected work
